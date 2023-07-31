@@ -5,7 +5,7 @@
 - 📚 I work mainly in Python, though I am working on expand my language skillset such as swift, git, flack etc.
 - 📫 How to reach me
 -Homepage: N/A
-- Email: yc5508@nyu.edu | bruceyujunchen@foxmail.com
+- Email: yc5508@nyu.edu | brucechenyujun@foxmail.com
 - Linkedin: https://www.linkedin.com/in/bruce-chen-68a099251
 <!---
 encryptleaks/encryptleaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
